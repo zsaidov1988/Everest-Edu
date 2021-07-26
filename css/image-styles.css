@@ -1,0 +1,32 @@
+.logo-pic {
+  width: 114px;
+  height: 85px;
+}
+
+.down-arrow {
+  width: 52px;
+  height: 70px;
+}
+
+.courses-item-img {
+  width: 297px;
+  height: 297px;
+  filter: drop-shadow(5px 5px 15px #979797);
+}
+
+.teachers-img {
+  border-radius: 50%;
+  width: 236px;
+  height: 236px;
+}
+
+.contact-link-img {
+  width: 40px;
+  height: 40px;
+  margin-right: 11px;
+}
+
+.footer-logo {
+  width: 162px;
+  height: 120px;
+}
